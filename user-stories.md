@@ -1,0 +1,1 @@
+As a developer, I want to create an accessible application that will tally the consumers’ interests in a variety of products so that the startup, BussMall can effectively fill there catalogs with products that there readers would be interested.  
